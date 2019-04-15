@@ -101,7 +101,7 @@ La licencia escogida para la publicación de este conjunto de datos ha sido **CC
 
 ## Código fuente y dataset
 
-Tanto el código fuente que permitió la extracción de los datos, como los dataset generados, son accesibles a través de *[este enlace](https://github.com/tteguayco/Web-scraping)* .
+Tanto el código fuente que permitió la extracción de los datos, como los dataset generados, son accesibles a través de *[este enlace](https://github.com/Ricard31/Web-Scraping)* .
 
 
 Se presenta a continuación una muestra de ambos datasets:
