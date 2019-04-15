@@ -13,7 +13,7 @@ La actividad ha sido realizada individualmente por **Ricard Trinchet Arnejo**.
 
 ## Ficheros del código fuente
 
-* **scraper.ipynb**: punto de entrada al programa. Inicia el proceso de scraping. [La Tienda de Valentina](https://latiendadevalentina.com/).
+* **scraper.ipynb**: programa que realiza web scraping en la web de [La Tienda de Valentina](https://latiendadevalentina.com/).
 
 ## Recursos
 
